@@ -9,6 +9,6 @@ https://github.com/octokit/go-octokit
 
 
 ### References
-* https://github.com/rguthrie-ghec/github_hack
+* https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
 * https://docs.github.com/en/github/authenticating-to-github/about-authentication-with-saml-single-sign-on
 * https://docs.github.com/en/github/authenticating-to-github/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on
